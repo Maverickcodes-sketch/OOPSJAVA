@@ -1,8 +1,8 @@
 //static or compiletime
-public class poly {
+public class polystatic {
     public static void main(String[] args) {
         System.out.println("A");
-        poly check=new poly();
+        polystatic check=new polystatic();
         check.al(1);
         check.al('a');
     }
